@@ -71,10 +71,10 @@ const AddInvoice = ({setAddInvoice}) =>{
                 />
 
                 <Button 
-                    variant= "contained "
+                    variant="contained"
                     onClick={() => addnewInvoice()}    
                 >
-                    AddInvoice
+                    Add Invoice
                 </Button>
             </Box>
         </Component>
