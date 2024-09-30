@@ -2,6 +2,8 @@
 Project Overview
 The Invoice Processing System is designed to automate and streamline the process of handling, generating, and managing invoices. The system ensures efficient tracking of payments, reduces human errors, and simplifies financial management by incorporating advanced features for users to process invoices with ease.
 
+
+
 Key Features
 
 Invoice Creation: Automatically generate invoices based on customer and product details.
@@ -15,6 +17,7 @@ Data Security: Secure storage of sensitive information using encryption and best
 User Authentication: Ensure only authorized personnel have access to invoices.
 
 Error Handling: Identify and handle errors in invoice data entry efficiently.
+
 
 Technology Stack
 
