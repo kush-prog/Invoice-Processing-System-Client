@@ -13,10 +13,9 @@ The **Invoice Processing System** simplifies the management of business finances
 - 👥 **User Roles & Permissions**: Role-based access ensures only authorized users can manage invoices.
 
 ## ⚙️ Technology Stack
-- **Backend**: Spring Boot, Hibernate, and Spring AOP
+- **Backend**: Spring Boot, Hibernate
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: MySQL / PostgreSQL (based on your setup)
-- **Security**: JWT Authentication for a secure login system
+- **Database**: MySQL
 - **Other Tools**: Maven, GitHub
 
 ## 🛠 Installation and Setup
